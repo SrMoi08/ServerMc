@@ -127,7 +127,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-06-04 23:14:49 +0000",
       "minecraft:river": "2025-06-04 22:47:04 +0000",
+      "minecraft:cold_ocean": "2025-06-04 23:21:36 +0000",
       "minecraft:forest": "2025-06-04 22:36:24 +0000",
       "minecraft:plains": "2025-06-04 22:47:19 +0000"
     },
@@ -215,6 +217,12 @@
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-06-04 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-04 23:20:47 +0000"
     },
     "done": true
   },
