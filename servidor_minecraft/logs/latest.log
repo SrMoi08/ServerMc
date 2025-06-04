@@ -679,3 +679,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 23:30:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Borisking23 has completed the challenge [When the Stew is Sus]
 [04Jun2025 23:31:26.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Borisking23 has made the advancement [Monster Hunter]
 [04Jun2025 23:31:30.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Borisking23 has made the advancement [A Strange Grave Dust]
+[04Jun2025 23:37:44.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Borisking23 lost connection: Disconnected
+[04Jun2025 23:37:44.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Borisking23 left the game
