@@ -637,3 +637,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 18:42:35.538] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
 [05Jun2025 18:42:35.539] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
 [05Jun2025 18:42:39.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Borisking23 has made the advancement [Magic Writing]
+[05Jun2025 18:49:25.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Borisking23 lost connection: Disconnected
+[05Jun2025 18:49:25.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Borisking23 left the game
